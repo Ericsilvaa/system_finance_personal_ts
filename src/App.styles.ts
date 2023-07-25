@@ -15,6 +15,7 @@ export const HeaderText = styled.h1`
     padding-top: 30px;
 `;
 
+// encapsulando e centralizando
 export const Body = styled.div`
     margin: auto;
     max-width: 980px;
