@@ -5,3 +5,4 @@ export const categories: Category = {
   rent: { title: 'Aluguel', color: 'brown', expense: true },
   salary: { title: 'Salário', color: 'green', expense: false }
 }
+// expense = despeza
